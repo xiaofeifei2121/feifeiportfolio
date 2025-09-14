@@ -14,7 +14,14 @@
     <img src="./assets/images/11.png" alt="">
     <img src="./assets/images/12.png" alt="">
     <img src="./assets/images/12-1.png" alt="">
-    <img src="./assets/images/13.png" alt="">
+    <div class="relative">
+      <img src="./assets/images/13.png" alt="">
+      <div class="absolute w-[60.6%] top-[14.5%] left-[35.5%] rounded-[4px] overflow-hidden">
+        <video autoplay loop muted class="w-full h-full">
+          <source src="./assets/images/13v.mp4" type="video/webm" />
+        </video>
+      </div>
+    </div>
     <img src="./assets/images/14.png" alt="">
     <img src="./assets/images/15.png" alt="">
     <img src="./assets/images/16.png" alt="">
