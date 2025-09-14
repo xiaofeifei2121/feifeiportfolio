@@ -40,7 +40,14 @@
     </div>
     <img src="./assets/images/16.png" alt="">
     <img src="./assets/images/17.png" alt="">
-    <img src="./assets/images/bianjiqi.png" alt="">
+    <div class="relative">
+      <img src="./assets/images/bianjiqi.png" alt="">
+      <div class="absolute w-[100%] top-[50.5%] left-[0%] rounded-[0px] overflow-hidden">
+        <video autoplay loop muted class="w-full h-full">
+          <source src="./assets/images/编辑器组件.webm" type="video/webm" />
+        </video>
+      </div>
+    </div>
     <img src="./assets/images/20.png" alt="">
     <img src="./assets/images/21.png" alt="">
     <div class="relative">
