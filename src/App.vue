@@ -22,8 +22,22 @@
         </video>
       </div>
     </div>
-    <img src="./assets/images/14.png" alt="">
-    <img src="./assets/images/15.png" alt="">
+    <div class="relative">
+      <img src="./assets/images/14.png" alt="">
+      <div class="absolute w-[100%] top-[0%] left-[0%] rounded-[0px] overflow-hidden">
+        <video autoplay loop muted class="w-full h-full">
+          <source src="./assets/images/14-yiyun.mp4" type="video/webm" />
+        </video>
+      </div>
+    </div>
+    <div class="relative">
+      <img src="./assets/images/15.png" alt="">
+      <div class="absolute w-[63%] top-[24%] left-[-9%] rounded-[0px] overflow-hidden">
+        <video autoplay loop muted class="w-full h-full">
+          <source src="./assets/images/15-quanjingtu.mp4" type="video/webm" />
+        </video>
+      </div>
+    </div>
     <img src="./assets/images/16.png" alt="">
     <img src="./assets/images/17.png" alt="">
     <img src="./assets/images/bianjiqi.png" alt="">
