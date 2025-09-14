@@ -13,6 +13,7 @@
     <img src="./assets/images/10.png" alt="">
     <img src="./assets/images/11.png" alt="">
     <img src="./assets/images/12.png" alt="">
+    <img src="./assets/images/12-1.png" alt="">
     <img src="./assets/images/13.png" alt="">
     <img src="./assets/images/14.png" alt="">
     <img src="./assets/images/15.png" alt="">
