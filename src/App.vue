@@ -52,8 +52,11 @@
     <img src="./assets/images/21.png" alt="">
     <div class="relative">
       <img src="./assets/images/22.png" alt="">
-      <img class="absolute w-[66.6%] top-[12.5%] left-[16.5%]" src="./assets/images/zuizhong.gif"
-           alt="">
+      <div class="absolute w-[67%] top-[12.5%] left-[16%] rounded-[0px] overflow-hidden">
+        <video autoplay loop muted class="w-full h-full">
+          <source src="./assets/images/zuizhong.webm" type="video/webm" />
+        </video>
+      </div>
     </div>
     <img src="./assets/images/23.png" alt="">
     <img src="./assets/images/24.png" alt="">
