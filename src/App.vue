@@ -16,47 +16,32 @@
     <img src="./assets/images/12-1.png" alt="">
     <div class="relative">
       <img src="./assets/images/13.png" alt="">
-      <div class="absolute w-[60.6%] top-[19.6%] left-[35.5%] rounded-[4px] overflow-hidden">
-        <video autoplay loop muted class="w-full h-full">
-          <source src="./assets/images/13v.mp4" type="video/webm" />
-        </video>
-      </div>
+      <img class="absolute w-[60.6%] top-[19.6%] left-[35.5%]" src="./assets/images/13v.gif"
+           alt="">
     </div>
     <div class="relative">
       <img src="./assets/images/14.png" alt="">
-      <div class="absolute w-[100%] top-[0%] left-[0%] rounded-[0px] overflow-hidden">
-        <video autoplay loop muted class="w-full h-full">
-          <source src="./assets/images/14-yiyun.mp4" type="video/webm" />
-        </video>
-      </div>
+      <img class="absolute w-[100%] top-[0%] left-[0%]" src="./assets/images/14-yiyun.gif"
+           alt="">
     </div>
     <div class="relative">
       <img src="./assets/images/15.png" alt="">
-      <div class="absolute w-[63%] top-[24%] left-[-9%] rounded-[0px] overflow-hidden">
-        <video autoplay loop muted class="w-full h-full">
-          <source src="./assets/images/15-quanjingtu.mp4" type="video/webm" />
-        </video>
-      </div>
+      <img class="absolute w-[63%] top-[24%] left-[-9%]" src="./assets/images/15-quanjingtu.gif"
+           alt="">
     </div>
     <img src="./assets/images/16.png" alt="">
     <img src="./assets/images/17.png" alt="">
     <div class="relative">
       <img src="./assets/images/bianjiqi.png" alt="">
-      <div class="absolute w-[100%] top-[50.5%] left-[0%] rounded-[0px] overflow-hidden">
-        <video autoplay loop muted class="w-full h-full">
-          <source src="./assets/images/编辑器组件.webm" type="video/webm" />
-        </video>
-      </div>
+      <img class="absolute w-[100%] top-[50.5%] left-[0%]" src="./assets/images/编辑器组件.gif"
+           alt="">
     </div>
     <img src="./assets/images/20.png" alt="">
     <img src="./assets/images/21.png" alt="">
     <div class="relative">
       <img src="./assets/images/22.png" alt="">
-      <div class="absolute w-[67%] top-[12.5%] left-[16%] rounded-[0px] overflow-hidden">
-        <video autoplay loop muted class="w-full h-full">
-          <source src="./assets/images/zuizhong.webm" type="video/webm" />
-        </video>
-      </div>
+      <img class="absolute w-[66.6%] top-[12.5%] left-[16.5%]" src="./assets/images/zuizhong.gif"
+           alt="">
     </div>
     <img src="./assets/images/23.png" alt="">
     <img src="./assets/images/24.png" alt="">
